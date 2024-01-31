@@ -25,6 +25,8 @@ pyenv
 Vagrantfile
 ny_taxi_postgres_data
 src
+output*
+keys
 
 
 # Terraform 
