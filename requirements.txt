@@ -1,4 +1,6 @@
 asttokens==2.4.1
+certifi==2023.11.17
+charset-normalizer==3.3.2
 cli-helpers==2.3.0
 click==8.1.7
 colorama==0.4.6
@@ -9,6 +11,7 @@ decorator==5.1.1
 exceptiongroup==1.2.0
 executing==2.0.1
 greenlet==3.0.3
+idna==3.6
 importlib-metadata==7.0.1
 ipykernel==6.29.0
 ipython==8.18.1
@@ -35,6 +38,7 @@ python-dateutil==2.8.2
 pytz==2023.4
 pywin32==306
 pyzmq==25.1.2
+requests==2.31.0
 setproctitle==1.3.3
 six==1.16.0
 SQLAlchemy==2.0.25
@@ -46,5 +50,6 @@ tornado==6.4
 traitlets==5.14.1
 typing_extensions==4.9.0
 tzdata==2023.4
+urllib3==2.2.0
 wcwidth==0.2.13
 zipp==3.17.0
